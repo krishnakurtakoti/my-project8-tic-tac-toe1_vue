@@ -1,5 +1,5 @@
 # my-project8-tic-tac-toe1
-
+Based on Tic-Tac-Toe react tutorials in React Documentation.
 ## Project setup
 ```
 npm install
