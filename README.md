@@ -1,9 +1,9 @@
 # my-project8-tic-tac-toe1
 Based on Tic-Tac-Toe React tutorials in React Documentation.
-This simple Vue.js project uses Tailwind CSS for styling and coloring components using inline CSS by using the style attribute in HTML elements.Example:
-##```
+This simple Vue.js project uses Tailwind CSS for styling and coloring components using inline CSS by using the style attribute in HTML elements.Example:##```
 <div class="text-purple text-sm absolute pin-b pin-r pt-4 px-4">Tailwind CSS test:Purple colored text from tailwind CSS</div>
 ```
+
 ## Project setup
 ```
 npm install
