@@ -19,19 +19,19 @@ LINK:https://codepen.io/krishnakurtakoti/full/BejQJR
                         <div class="font-semibold text-orange-dark">This player's term:{{player}}</div>
 
                       <div class="board px-4 py-4">
-                        <div> <button  class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark"                               v-on:click="buttonclick1(history3[0].id)"> {{history3[0].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                                 on:click="buttonclick1(history3[1].id)"> {{history3[1].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                                 on:click="buttonclick1(history3[2].id)"> {{this.history3[2].square}}</button>
+                        <div> <button  class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-on:click="buttonclick1(history3[0].id)"> {{history3[0].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-    on:click="buttonclick1(history3[1].id)"> {{history3[1].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-   on:click="buttonclick1(history3[2].id)"> {{this.history3[2].square}}</button>
                         </div>
 
-                        <div> <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark"                                v-on:click="buttonclick1(history3[3].id)"> {{history3[3].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                               on:click="buttonclick1(history3[4].id)"> {{history3[4].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                               on:click="buttonclick1(history3[5].id)"> {{history3[5].square}}</button>
+                        <div> <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark"    v-on:click="buttonclick1(history3[3].id)"> {{history3[3].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-   on:click="buttonclick1(history3[4].id)"> {{history3[4].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-   on:click="buttonclick1(history3[5].id)"> {{history3[5].square}}</button>
                         </div>
 
-                        <div> <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark"                            v-on:click="buttonclick1(history3[6].id)"> {{history3[6].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                             on:click="buttonclick1(history3[7].id)"> {{history3[7].square}}</button>
-                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-                             on:click="buttonclick1(history3[8].id)"> {{history3[8].square}}</button>
+                        <div> <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark"    v-on:click="buttonclick1(history3[6].id)"> {{history3[6].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-   on:click="buttonclick1(history3[7].id)"> {{history3[7].square}}</button>
+                          <button class="bg-transparent hover:bg-blue-dark text-black font-bold py-4 px-4 border border-grey-dark" v-    on:click="buttonclick1(history3[8].id)"> {{history3[8].square}}</button>
                         </div>
                       </div>
 
